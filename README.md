@@ -1,7 +1,5 @@
 # GnuCOBOL on WSL 2
 
----
-
 These scripts are here to automate the installation of Ubuntu on WSL2 and install GnuCOBOL 3.1-rc1 on Windows via WSL.
 
 ### Install Instructions
