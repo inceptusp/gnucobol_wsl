@@ -17,7 +17,7 @@ These scripts are here to automate the installation of Ubuntu on WSL2 and instal
 
 TIP: Pay attention and insert your configured UNIX password aways when asked.
 
-TIP: When finished, you could test your instalation by compiling and executing the test.cbl file included by executing
+TIP: When finished, you can test your instalation by compiling and executing the `test.cbl` (it's a simple calculator) file included by executing
 ```PowerShell
 wsl cobc -x test.cbl
 wsl ./test
