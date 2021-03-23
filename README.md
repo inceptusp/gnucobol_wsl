@@ -1,10 +1,10 @@
 # GnuCOBOL on WSL 2
 
-These scripts are here to automate the installation of Ubuntu on WSL2 and install GnuCOBOL 3.1-rc1 on Windows via WSL.
+These scripts are here to automate the installation of GnuCOBOL 3.1.2 on Windows via WSL.
 
 ### Install Instructions
 1. Clone the repo
-2. Install WSL and a distro following the instructions in https://docs.microsoft.com/en-us/windows/wsl/install-win10
+2. Install WSL and Ubuntu following the instructions in https://docs.microsoft.com/en-us/windows/wsl/install-win10
 3. Open Powershell as admin in the repo folder
 4. Execute this command: powershell.exe -executionpolicy bypass -file "install-gnucobol.ps1"
 5. Configure your UNIX username and password, if asked.
