@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Remove COBOL files from github's linguist
+test.cbl.zip linguist-vendored
+test.cbl linguist-vendored
